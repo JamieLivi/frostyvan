@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frostyvan-dev-132855-authRole",
+      "UnauthRoleArn": "arn:aws:iam::318564174151:role/amplify-frostyvan-dev-132855-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::318564174151:role/amplify-frostyvan-dev-132855-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-frostyvan-dev-132855-deployment",
+      "UnauthRoleName": "amplify-frostyvan-dev-132855-unauthRole",
+      "StackName": "amplify-frostyvan-dev-132855",
+      "StackId": "arn:aws:cloudformation:eu-west-1:318564174151:stack/amplify-frostyvan-dev-132855/f4e6cfe0-be49-11ec-9987-028eac77208d",
+      "AmplifyAppId": "d2ulncc2lxokp8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ulncc2lxokp8",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
